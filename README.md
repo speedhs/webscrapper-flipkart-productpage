@@ -5,7 +5,7 @@ STEP 2:Input product url and req the url and setup bs4 object
 Step 3:Start scraping
     
 Input:
-1)Url for the product page
+1)Url for the product page(FLIPKART)
 
 Output:
 1)Prouct name
